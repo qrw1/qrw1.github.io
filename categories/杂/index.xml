@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>杂 on qrw</title>
-        <link>http://localhost:1313/categories/%E6%9D%82/</link>
+        <link>https://qrw1.github.io/categories/%E6%9D%82/</link>
         <description>Recent content in 杂 on qrw</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>qrw</copyright>
-        <lastBuildDate>Fri, 17 Jan 2025 19:55:07 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%9D%82/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 17 Jan 2025 19:55:07 +0800</lastBuildDate><atom:link href="https://qrw1.github.io/categories/%E6%9D%82/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>FirstBlog</title>
-        <link>http://localhost:1313/p/firstblog/</link>
+        <link>https://qrw1.github.io/p/firstblog/</link>
         <pubDate>Fri, 17 Jan 2025 19:55:07 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/firstblog/</guid>
+        <guid>https://qrw1.github.io/p/firstblog/</guid>
         <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World
 &lt;/h2&gt;&lt;p&gt;some 仪式感&lt;/p&gt;
 </description>
