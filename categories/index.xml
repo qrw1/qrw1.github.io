@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>分类 on qrw</title>
+        <link>https://qrw1.github.io/categories/</link>
+        <description>Recent content in 分类 on qrw</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://qrw1.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>weekly</title>
+            <link>https://qrw1.github.io/categories/weekly/</link>
+            <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+            <guid>https://qrw1.github.io/categories/weekly/</guid>
+            <description>&lt;img src=&#34;https://qrw1.github.io/categories/weekly/week.jpg&#34; alt=&#34;Featured image of post weekly&#34; /&gt;</description>
+        </item><item>
+            <title>杂</title>
+            <link>https://qrw1.github.io/categories/%E6%9D%82/</link>
+            <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+            <guid>https://qrw1.github.io/categories/%E6%9D%82/</guid>
+            <description>&lt;img src=&#34;https://qrw1.github.io/categories/%E6%9D%82/za.jpg&#34; alt=&#34;Featured image of post 杂&#34; /&gt;</description>
+        </item><item>
+            <title>随笔</title>
+            <link>https://qrw1.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
+            <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+            <guid>https://qrw1.github.io/categories/%E9%9A%8F%E7%AC%94/</guid>
+            <description>&lt;img src=&#34;https://qrw1.github.io/categories/%E9%9A%8F%E7%AC%94/svbi.jpg&#34; alt=&#34;Featured image of post 随笔&#34; /&gt;</description>
+        </item></channel>
+</rss>
